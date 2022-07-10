@@ -10,7 +10,7 @@
 
 💬 Ask me about **JavaScript, TypeScript or React.**
 
-📫 Contact me via [mail](davidmadridyepez@gmail.com)
+📫 Contact me via [mail](davidmadridpathway@gmail.com)
 
 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/david-madrid-0809211a1/)<br>
 
