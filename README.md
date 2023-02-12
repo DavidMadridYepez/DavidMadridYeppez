@@ -2,9 +2,9 @@
 
 <h3 align="center">A Front-end Engineer building things with React. 💻</h3> <br>
 
-🔭 I’m currently working at [Sutherland](https://www.sutherlandglobal.com/)
+🔭 I’m currently working at [Soluntech](https://www.soluntech.com/)
 
-🌱 I’m currently learning **NextJs**
+🌱 I’m currently learning **Three.Js**
 
 🤝 I'm looking to collaborate with senior developers; **to raise my standards on what is expected of any web application.**
 
