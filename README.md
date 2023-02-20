@@ -4,7 +4,7 @@
 
 🔭 I’m currently working at [Soluntech](https://www.soluntech.com/)
 
-🌱 I’m currently learning **Three.Js**
+🌱 I’m currently learning **React Hook Form**
 
 🤝 I'm looking to collaborate with senior developers; **to raise my standards on what is expected of any web application.**
 
