@@ -2,7 +2,7 @@
 
 <h3 align="center">A Front-end Engineer building things with React. 💻</h3> <br>
 
-🔭 I’m currently working at [Soluntech](https://www.soluntech.com/)
+🔭 I’m currently working at [Solvedex](https://solvedex.com/)
 
 🌱 I’m currently learning **React Hook Form**
 
@@ -12,7 +12,7 @@
 
 📫 Contact me via davidmadridpathway@gmail.com
 
-📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/david-madrid-0809211a1/)<br>
+📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/dmadridy/)<br>
 
 ⚡ Fun fact **I am two-time Chess Champion ♟️ at college. I hope to win again this year haha**
 
