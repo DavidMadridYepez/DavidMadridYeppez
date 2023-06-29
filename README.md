@@ -2,9 +2,9 @@
 
 <h3 align="center">A Front-end Engineer building things with React. 💻</h3> <br>
 
-🔭 I’m currently working at [Solvedex](https://solvedex.com/)
+🔭 I’m currently working at [Yellow Bird]((https://goyellowbird.com/))
 
-🌱 I’m currently learning **React Hook Form**
+🌱 I’m currently learning **Auth0**
 
 🤝 I'm looking to collaborate with senior developers; **to raise my standards on what is expected of any web application.**
 
